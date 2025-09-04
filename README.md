@@ -34,5 +34,5 @@ workshop.
 - [Zipper Data Structure (Contexts and Differentiation)](https://en.wikipedia.org/wiki/Zipper_(data_structure)#Contexts_and_differentiation)
 - [Zippers by Tony Morris #FnConf19](https://www.youtube.com/watch?v=HqHdgBXOOsE)
 - [Zippers - Learn You a Haskell for Great Good!](https://www.learnyouahaskell.com/Zippers)
-
+- [Zippers, Clowns, and Jokers Part 1 ](https://www.youtube.com/watch?v=Mg0Ko7XtDyM)
 

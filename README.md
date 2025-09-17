@@ -3,6 +3,9 @@
 We are a group of students excited about compilers and self-teaching each other
 compilers.
 
+[GitHub](https://github.com/frroossst/SUCC/)
+[Mirror](https://adhyan.ca/misc/SUCC)
+
 
 # Meetings
 

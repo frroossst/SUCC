@@ -39,3 +39,14 @@ workshop.
 - [Zippers - Learn You a Haskell for Great Good!](https://www.learnyouahaskell.com/Zippers)
 - [Zippers, Clowns, and Jokers Part 1 ](https://www.youtube.com/watch?v=Mg0Ko7XtDyM)
 
+
+## 18 September 2025
+
+
+We covered the topic [Constructive Logic & The Curry-Howard Isomorphism](https://hypefortypes.github.io/lectures/lec03.pdf) from the [HyperForType](https://hypefortypes.github.io/) workshop.
+
+
+### Additional Resources (if interested)
+- [Theorems for free!](https://www2.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
+- [Goodbye C developers: The future of programming with certified program synthesis](https://kirancodes.me/posts/log-certified-synthesis.html)
+- [Beyond Booleans](https://overreacted.io/beyond-booleans/)

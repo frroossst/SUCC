@@ -14,7 +14,6 @@ compilers.
 Our first ever meeting, the following group members where present:
 
 - Adhyan Patel (presenter)
-- Anthony Blower
 - Tristen MacPhearson
 - Connor Tamme
 - Harjyot Vaseer

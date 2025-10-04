@@ -49,3 +49,15 @@ We covered the topic [Constructive Logic & The Curry-Howard Isomorphism](https:/
 - [Theorems for free!](https://www2.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
 - [Goodbye C developers: The future of programming with certified program synthesis](https://kirancodes.me/posts/log-certified-synthesis.html)
 - [Beyond Booleans](https://overreacted.io/beyond-booleans/)
+
+
+## 2 October 2025
+
+
+We covered [Continuations](https://hypefortypes.github.io/lectures/lec04.pdf) from the [HyperForType](https://hypefortypes.github.io/) workshop.
+
+
+### Additional Resources (if interested)
+- [Lecture 21: Programming with Continuations, CS4400/5400 Fall 2024, Steven Holtzen](https://pages.github.khoury.northeastern.edu/sholtzen/cs4400-fall24/lecture-notes/lecture-21/lecture-21.pdf)
+- [Continuations by example: Exceptions, time-traveling search, generators, threads, and coroutines](https://matt.might.net/articles/programming-with-continuations--exceptions-backtracking-search-threads-generators-coroutines/)
+- [Exceptions in C with Longjmp and Setjmp](http://groups.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)

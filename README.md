@@ -61,3 +61,17 @@ We covered [Continuations](https://hypefortypes.github.io/lectures/lec04.pdf) fr
 - [Lecture 21: Programming with Continuations, CS4400/5400 Fall 2024, Steven Holtzen](https://pages.github.khoury.northeastern.edu/sholtzen/cs4400-fall24/lecture-notes/lecture-21/lecture-21.pdf)
 - [Continuations by example: Exceptions, time-traveling search, generators, threads, and coroutines](https://matt.might.net/articles/programming-with-continuations--exceptions-backtracking-search-threads-generators-coroutines/)
 - [Exceptions in C with Longjmp and Setjmp](http://groups.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
+
+
+## 16 October 2025
+
+
+We covered [Substructural Logic](https://hypefortypes.github.io/lectures/lec05.pdf) from the [HyperForType](https://hypefortypes.github.io/) workshop.  
+
+
+### Additional Resources (if interested)
+- [CS 4110 – Programming Languages and Logics Lecture #30: Linear Types](https://www.cs.cornell.edu/courses/cs4110/2024sp/lectures/lecture30.pdf)  
+- [Rust's memory safety guarantee - fasterthanlime](https://www.youtube.com/watch?v=zo6yZisg7N0&t=1478s&pp=ygUhZmFzdGVydGhhbmxpbWUgcnVzdCBtZW1vcnlzYSBmZXR5)
+- [Undroppable Types](https://jack.wrenn.fyi/blog/undroppable/)
+- [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
+

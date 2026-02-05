@@ -75,3 +75,19 @@ We covered [Substructural Logic](https://hypefortypes.github.io/lectures/lec05.p
 - [Undroppable Types](https://jack.wrenn.fyi/blog/undroppable/)
 - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 
+
+## 15 January 2026
+
+We covered some cool compiler optimizations from Matt Godbolt's [Advent of Compiler Optimizations](https://www.youtube.com/playlist?list=PL2HVqYf7If8cY4wLk7JUQ2f0JXY_xMQm2)
+
+
+## 5 February 2026
+
+We covered [Polyhedral Compilation](https://en.wikipedia.org/wiki/Frameworks_supporting_the_polyhedral_model)
+
+### Additional Resources (if interested)
+- [Polly LLVM framework](https://polly.llvm.org)
+- [A Survey of General-purpose Polyhedral Compilers](https://dl.acm.org/doi/full/10.1145/3674735)
+- [Polyhedral Compilation Notes](https://aalanli.github.io/Polyhedral-Compilation-Notes/)
+- [Polyhedral Compilation as a Design Pattern for Compiler Construction](https://junpengzha.github.io/public_html/Polyhedral-Compilation/albert_cohen_slides.pdf)
+

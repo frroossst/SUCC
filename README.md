@@ -90,4 +90,18 @@ We covered [Polyhedral Compilation](https://en.wikipedia.org/wiki/Frameworks_sup
 - [A Survey of General-purpose Polyhedral Compilers](https://dl.acm.org/doi/full/10.1145/3674735)
 - [Polyhedral Compilation Notes](https://aalanli.github.io/Polyhedral-Compilation-Notes/)
 - [Polyhedral Compilation as a Design Pattern for Compiler Construction](https://junpengzha.github.io/public_html/Polyhedral-Compilation/albert_cohen_slides.pdf)
+- [Frequently Asked Questions in Polyhedral Computation](https://people.inf.ethz.ch/fukudak/Doc_pub/polyfaq220115c.pdf)
+
+
+## 26 February 2026
+
+Short lecture covering whether the set of all computable functions is closed under recursion or not
+
+## 5 March 2026
+
+Theo showed off his own programming language called [crux-lang](https://github.com/TheophilusNenhanga/crux-lang)
+
+## 12 March 2026 
+
+Tristen MacPhearson gave a talk on using and leveraging AI models
 

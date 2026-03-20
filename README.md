@@ -105,3 +105,7 @@ Theo showed off his own programming language called [crux-lang](https://github.c
 
 Tristen MacPhearson gave a talk on using and leveraging AI models
 
+## 19 March 2026
+
+Presentation explaining Atkey's 2014 POPL paper. "From Parametricity to Conservation Laws, via Noether's Theorem"
+

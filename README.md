@@ -93,6 +93,10 @@ We covered [Polyhedral Compilation](https://en.wikipedia.org/wiki/Frameworks_sup
 - [Frequently Asked Questions in Polyhedral Computation](https://people.inf.ethz.ch/fukudak/Doc_pub/polyfaq220115c.pdf)
 
 
+## 12 February 2026
+
+We covered the famous Entity Component System architecture for game engine design and performance realted metrics
+
 ## 26 February 2026
 
 Short lecture covering whether the set of all computable functions is closed under recursion or not
@@ -108,4 +112,11 @@ Tristen MacPhearson gave a talk on using and leveraging AI models
 ## 19 March 2026
 
 Presentation explaining Atkey's 2014 POPL paper. "From Parametricity to Conservation Laws, via Noether's Theorem"
+
+## 2 April 2026
+
+Debunking common myths about quantum computers and explaining the math and physics behind them
+
+### Additional Resources (if interested)
+- [Replication of Quantum Factorisation Records with an 8-bit Home Computer, an Abacus, and a Dog](https://eprint.iacr.org/2025/1237.pdf)
 

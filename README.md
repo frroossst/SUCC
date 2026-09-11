@@ -120,3 +120,18 @@ Debunking common myths about quantum computers and explaining the math and physi
 ### Additional Resources (if interested)
 - [Replication of Quantum Factorisation Records with an 8-bit Home Computer, an Abacus, and a Dog](https://eprint.iacr.org/2025/1237.pdf)
 
+## 4 September 2026
+
+Welcome Week! No content covered.
+
+## 11 September 2026
+
+Introduction to E-Graphsfor compiler Optimizations
+
+### Additional Resources (if interested)
+- [Philip Zucker's E-graphs](https://www.philipzucker.com/notes/Logic/egraphs/)
+- [E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/pdf/2602.16707)
+- [Awesome E-Graphs](https://github.com/philzook58/awesome-egraphs)
+
+
+

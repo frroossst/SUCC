@@ -124,7 +124,7 @@ Debunking common myths about quantum computers and explaining the math and physi
 
 Welcome Week! No content covered.
 
-## 11 September 2026
+## 10 September 2026
 
 Introduction to E-Graphsfor compiler Optimizations
 
@@ -132,6 +132,14 @@ Introduction to E-Graphsfor compiler Optimizations
 - [Philip Zucker's E-graphs](https://www.philipzucker.com/notes/Logic/egraphs/)
 - [E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/pdf/2602.16707)
 - [Awesome E-Graphs](https://github.com/philzook58/awesome-egraphs)
+
+
+## 17 September 2026
+
+Ancestral Genomes, guest talk by Prateesh Soman
+
+
+## 24 September 2026
 
 
 

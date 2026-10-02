@@ -141,5 +141,12 @@ Ancestral Genomes, guest talk by Prateesh Soman
 
 ## 24 September 2026
 
+Undefined Behaviour in C trivia!
+
+
+## 30 September 2026
+
+PL jeopardy, hosted by Connor Tamme
+
 
 

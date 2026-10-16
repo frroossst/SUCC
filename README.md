@@ -148,5 +148,15 @@ Undefined Behaviour in C trivia!
 
 PL jeopardy, hosted by Connor Tamme
 
+## 1 October 2026
+
+## 7 October 2026
+
+Crash Course in computer networks by Connor Tamme
+
+## 15 October 2026
+
+Adhyan Patel gave a talk in preparation for his paper presentation at IFL'26
+
 
 

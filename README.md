@@ -11,7 +11,7 @@ compilers.
 
 ## 28 August 2025
 
-Our first ever meeting, the following group members where present:
+Our first ever meeting, the following group members were present:
 
 - Adhyan Patel (presenter)
 - Tristen MacPhearson
@@ -19,14 +19,14 @@ Our first ever meeting, the following group members where present:
 - Harjyot Vaseer
 
 
-We covered the the topic [Simply-Typed Lambda Calculus](https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus) from the [HyperForType](https://hypefortypes.github.io/)
+We covered the topic [Simply-Typed Lambda Calculus](https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus) from the [HypeForTypes2025](https://hypefortypes.github.io/S25/)
 workshop.
 
 
 ## 4 September 2025
 
 
-We covered the the topic [Algebraic Data Types and Type Arithmetic](https://hypefortypes.github.io/lectures/lec02.pdf) from the [HyperForType](https://hypefortypes.github.io/) 
+We covered the topic [Algebraic Data Types and Type Arithmetic](https://hypefortypes.github.io/S25/lectures/lec02.pdf) from the [HypeForTypes2025](https://hypefortypes.github.io/S25/)
 workshop.
 
 
@@ -36,13 +36,13 @@ workshop.
 - [Zipper Data Structure (Contexts and Differentiation)](https://en.wikipedia.org/wiki/Zipper_(data_structure)#Contexts_and_differentiation)
 - [Zippers by Tony Morris #FnConf19](https://www.youtube.com/watch?v=HqHdgBXOOsE)
 - [Zippers - Learn You a Haskell for Great Good!](https://www.learnyouahaskell.com/Zippers)
-- [Zippers, Clowns, and Jokers Part 1 ](https://www.youtube.com/watch?v=Mg0Ko7XtDyM)
+- [Zippers, Clowns, and Jokers Part 1](https://www.youtube.com/watch?v=Mg0Ko7XtDyM)
 
 
 ## 18 September 2025
 
 
-We covered the topic [Constructive Logic & The Curry-Howard Isomorphism](https://hypefortypes.github.io/lectures/lec03.pdf) from the [HyperForType](https://hypefortypes.github.io/) workshop.
+We covered the topic [Constructive Logic & The Curry-Howard Isomorphism](https://hypefortypes.github.io/S25/lectures/lec03.pdf) from the [HypeForTypes2025](https://hypefortypes.github.io/S25/) workshop.
 
 
 ### Additional Resources (if interested)
@@ -54,7 +54,7 @@ We covered the topic [Constructive Logic & The Curry-Howard Isomorphism](https:/
 ## 2 October 2025
 
 
-We covered [Continuations](https://hypefortypes.github.io/lectures/lec04.pdf) from the [HyperForType](https://hypefortypes.github.io/) workshop.
+We covered [Continuations](https://hypefortypes.github.io/S25/lectures/lec04.pdf) from the [HypeForTypes2025](https://hypefortypes.github.io/S25/) workshop.
 
 
 ### Additional Resources (if interested)
@@ -66,11 +66,11 @@ We covered [Continuations](https://hypefortypes.github.io/lectures/lec04.pdf) fr
 ## 16 October 2025
 
 
-We covered [Substructural Logic](https://hypefortypes.github.io/lectures/lec05.pdf) from the [HyperForType](https://hypefortypes.github.io/) workshop.  
+We covered [Substructural Logic](https://hypefortypes.github.io/S25/lectures/lec05.pdf) from the [HypeForTypes2025](https://hypefortypes.github.io/S25/) workshop.
 
 
 ### Additional Resources (if interested)
-- [CS 4110 – Programming Languages and Logics Lecture #30: Linear Types](https://www.cs.cornell.edu/courses/cs4110/2024sp/lectures/lecture30.pdf)  
+- [CS 4110 – Programming Languages and Logics Lecture #30: Linear Types](https://www.cs.cornell.edu/courses/cs4110/2024sp/lectures/lecture30.pdf)
 - [Rust's memory safety guarantee - fasterthanlime](https://www.youtube.com/watch?v=zo6yZisg7N0&t=1478s&pp=ygUhZmFzdGVydGhhbmxpbWUgcnVzdCBtZW1vcnlzYSBmZXR5)
 - [Undroppable Types](https://jack.wrenn.fyi/blog/undroppable/)
 - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
@@ -95,7 +95,7 @@ We covered [Polyhedral Compilation](https://en.wikipedia.org/wiki/Frameworks_sup
 
 ## 12 February 2026
 
-We covered the famous Entity Component System architecture for game engine design and performance realted metrics
+We covered the famous Entity Component System architecture for game engine design and performance-related metrics
 
 ## 26 February 2026
 
@@ -111,7 +111,7 @@ Tristen MacPhearson gave a talk on using and leveraging AI models
 
 ## 19 March 2026
 
-Presentation explaining Atkey's 2014 POPL paper. "From Parametricity to Conservation Laws, via Noether's Theorem"
+Presentation explaining Atkey's 2014 POPL paper, "From Parametricity to Conservation Laws, via Noether's Theorem"
 
 ## 2 April 2026
 
@@ -126,7 +126,7 @@ Welcome Week! No content covered.
 
 ## 10 September 2026
 
-Introduction to E-Graphsfor compiler Optimizations
+Introduction to E-Graphs for compiler optimizations
 
 ### Additional Resources (if interested)
 - [Philip Zucker's E-graphs](https://www.philipzucker.com/notes/Logic/egraphs/)

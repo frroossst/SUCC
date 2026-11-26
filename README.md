@@ -159,4 +159,28 @@ Crash Course in computer networks by Connor Tamme
 Adhyan Patel gave a talk in preparation for his paper presentation at IFL'26
 
 
+## 22 October 2026
+
+We covered [Polymorphism](https://hypefortypes.github.io/S25/lectures/lec07.pdf) from the [HypeForTypes2025](https://hypefortypes.github.io/S25/) workshop.
+
+
+## 5 November 2026
+
+We covered [Parametricity](https://hypefortypes.github.io/S25/lectures/lec08.pdf) from the [HypeForTypes2025](https://hypefortypes.github.io/S25/) workshop.
+
+
+## 12 November 2026
+
+Reading Week Break
+
+## 19 November 2026
+
+GTA VI launch + Anthropic IPO (so no club!)
+
+## 26 November 2026
+
+We covered [Monads](https://hypefortypes.github.io/S25/lectures/lec09.pdf) from the [HypeForTypes2025](https://hypefortypes.github.io/S25/) workshop.
+
+
+
 
